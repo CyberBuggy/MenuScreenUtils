@@ -1,0 +1,9 @@
+{
+    "name": "com.cyberbuggy.menu-screen-utils",
+    "version": "0.0.1",
+    "displayName": "Menu Screen Utilities",
+    "author": {
+        "name": "CyberBuggy"
+    },
+    "description": "Unity Packages with premade scenes and scripts to help with making Unity menus (Main Menu, Win/Lose Screens, Pause Menu, et cetera)"
+}
