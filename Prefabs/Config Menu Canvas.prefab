@@ -540,6 +540,7 @@ MonoBehaviour:
   _buttonText: {fileID: 4260773593147715673}
   _primaryColor: {r: 0.09411765, g: 0.09411765, b: 0.09411765, a: 1}
   _secondaryColor: {r: 1, g: 1, b: 1, a: 1}
+  _buttonHighlightType: 1
 --- !u!1 &1248291130223584845
 GameObject:
   m_ObjectHideFlags: 0

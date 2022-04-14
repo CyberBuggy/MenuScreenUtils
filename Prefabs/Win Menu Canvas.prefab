@@ -138,6 +138,7 @@ MonoBehaviour:
   _buttonText: {fileID: 410595413807785285}
   _primaryColor: {r: 0.09411765, g: 0.09411765, b: 0.09411765, a: 1}
   _secondaryColor: {r: 1, g: 1, b: 1, a: 1}
+  _buttonHighlightType: 1
 --- !u!1 &410595412013799413
 GameObject:
   m_ObjectHideFlags: 0
@@ -276,6 +277,7 @@ MonoBehaviour:
   _buttonText: {fileID: 410595413463767454}
   _primaryColor: {r: 0.09411765, g: 0.09411765, b: 0.09411765, a: 1}
   _secondaryColor: {r: 1, g: 1, b: 1, a: 1}
+  _buttonHighlightType: 1
 --- !u!1 &410595412825904312
 GameObject:
   m_ObjectHideFlags: 0
@@ -949,7 +951,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 50
   m_TargetDisplay: 0
 --- !u!114 &410595413899429213
 MonoBehaviour:

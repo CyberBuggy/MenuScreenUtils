@@ -193,7 +193,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 50
   m_TargetDisplay: 0
 --- !u!114 &7653196338779690072
 MonoBehaviour:
@@ -507,6 +507,7 @@ MonoBehaviour:
   _buttonText: {fileID: 7653196339814206621}
   _primaryColor: {r: 0.09411765, g: 0.09411765, b: 0.09411765, a: 1}
   _secondaryColor: {r: 1, g: 1, b: 1, a: 1}
+  _buttonHighlightType: 1
 --- !u!1 &7653196338857728890
 GameObject:
   m_ObjectHideFlags: 0
@@ -1126,6 +1127,7 @@ MonoBehaviour:
   _buttonText: {fileID: 7653196338678483099}
   _primaryColor: {r: 0.09411765, g: 0.09411765, b: 0.09411765, a: 1}
   _secondaryColor: {r: 1, g: 1, b: 1, a: 1}
+  _buttonHighlightType: 1
 --- !u!1 &7653196340161492675
 GameObject:
   m_ObjectHideFlags: 0
@@ -1264,3 +1266,4 @@ MonoBehaviour:
   _buttonText: {fileID: 7653196338838058048}
   _primaryColor: {r: 0.09411765, g: 0.09411765, b: 0.09411765, a: 1}
   _secondaryColor: {r: 1, g: 1, b: 1, a: 1}
+  _buttonHighlightType: 1
