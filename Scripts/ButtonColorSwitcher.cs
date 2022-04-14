@@ -21,7 +21,11 @@ namespace CyberBuggy.MenuScreenUtils
         {
             ApplyButtonColors(_primaryColor, _secondaryColor);
         }
-  
+
+        private void OnDisable()
+        {
+            ApplyButtonColors(_primaryColor, _secondaryColor);
+        }
         private void ApplyButtonColors(Color firstColor, Color secondColor)
         {
             _targetButton.targetGraphic.color = firstColor;
